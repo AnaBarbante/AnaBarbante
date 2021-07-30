@@ -1,9 +1,11 @@
 ## Olá! Eu sou a 🌸 Ana Luiza Barbante 🌸 
+</br> 🌸 Trabalho como Quality Assurance Software Engineer 
+</br> 🌸 Conhecimento em automação utilizando: python, ruby, java, javascript
+</br> 🌸 Ferramentas: Selenium WebDriver, Cypress, Postman, Appium
+</br> 🌸 BDD utilizando Cucumber
 
-###### 🌸 Trabalho como Quality Assurance Software Engineer 
-###### 🌸 Conhecimento em automação utilizando: python, ruby, java, javascript
-###### 🌸 Ferramentas: Selenium WebDriver, Cypress, Postman, Appium
-###### 🌸 BDD utilizando Cucumber
+---
+
  <div>
   <a href="https://beacons.page/anabarbante">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnaBarbante&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
